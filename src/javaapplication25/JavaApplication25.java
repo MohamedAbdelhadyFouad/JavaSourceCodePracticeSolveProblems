@@ -59,6 +59,8 @@ public class JavaApplication25 {
        root= a.insertNode(root, 8);
               root= a.insertNode(root, 3);   
               root= a.insertNode(root, 6);
+              
+              // Prine numbers 
       PrimeNumbers p = new PrimeNumbers();
       
 
